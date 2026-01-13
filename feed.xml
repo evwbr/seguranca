@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Evo Web News - Segurança</title>
+<atom:link href="https://evwbr.github.io/seguranca/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/seguranca/</link>
+<description>Segurança reescrita com IA - Evo Web News</description>
+<lastBuildDate>Tue, 13 Jan 2026 21:46:55 GMT</lastBuildDate>
+<language>pt-BR</language>
+<item>
+<title><![CDATA[Mortes por afogamento aumentam no litoral de São Paulo]]></title>
+<link>https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-01/litoral-paulista-registra-nove-mortes-por-afogamento-no-fim-de-semana</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 12 Jan 2026 23:52:00 GMT</pubDate>
+<category><![CDATA[Segurança]]></category>
+<guid isPermaLink="false"><![CDATA[1674817 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Quatro pessoas morreram afogadas no sábado em praias do litoral paulista, e cinco óbitos foram notificados no domingo. A maioria dos casos ocorreu em Guarujá e São Sebastião, com um banhista desaparecido em Praia Grande.]]></description>
+<content:encoded><![CDATA[
+<p>Quatro pessoas morreram afogadas no sábado em praias do litoral paulista, e cinco óbitos foram notificados no domingo. A maioria dos casos ocorreu em Guarujá e São Sebastião, com um banhista desaparecido em Praia Grande.</p>
+<p>No sábado, uma pessoa morreu afogada em Guarujá, duas em Itanhaém e uma em Praia Grande, onde um banhista segue desaparecido. No domingo, foram registrados cinco óbitos: dois em Guarujá, um em Mongaguá, um em Itanhaém e um corpo encontrado em Praia Grande, sem confirmação de que seja o desaparecido do dia anterior.</p>
+<p>Desde o início do ano, dezenove pessoas perderam a vida nas praias do litoral de São Paulo. Durante o período de calor e férias, os bombeiros reforçam a importância de respeitar a sinalização de risco, permanecer próximo a postos de guarda-vidas, evitar o consumo de bebida alcoólica antes de entrar na água e redobrar a atenção com idosos e crianças.</p>
+<p></p>
+]]></content:encoded>
+</item>
+</channel></rss>
